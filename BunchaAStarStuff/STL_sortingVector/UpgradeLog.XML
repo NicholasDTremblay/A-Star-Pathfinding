@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="STL_sortingVector">
+</Property><Property Name="Solution File" Value="C:\Users\MutantSuperNick\Desktop\SCHOOL\Year2\AI\BunchaAStarStuff\STL_sortingVector\STL_sortingVector.sln">
+</Property><Property Name="Date" Value="October-24-12">
+</Property><Property Name="Time" Value="13:54 PM">
+</Property></Properties><Event ErrorLevel="0" Project="sorting" Source="sorting\sorting.vcproj" Description="Converting project file 'C:\Users\MutantSuperNick\Desktop\SCHOOL\Year2\AI\BunchaAStarStuff\STL_sortingVector\sorting\sorting.vcproj'.">
+</Event><Event ErrorLevel="1" Project="sorting" Source="sorting\sorting.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="sorting" Source="sorting\sorting.vcproj" Description="Done converting to new project file 'C:\Users\MutantSuperNick\Desktop\SCHOOL\Year2\AI\BunchaAStarStuff\STL_sortingVector\sorting\sorting.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="sorting" Source="sorting\sorting.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="STL_sortingVector.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="STL_sortingVector.sln" Description="Converted">
+</Event></UpgradeLog>
